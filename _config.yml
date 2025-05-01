@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -17,13 +16,12 @@ url                      : https://anqizhanglinguistics.github.io # the base hos
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "professionalphoto.JPG"
+  avatar           : "HongKong.JPG"
   name             : "Anqi Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Linguistics, UChicago"
