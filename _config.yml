@@ -352,4 +352,3 @@ compress_html:
   ignore:
     envs: development
 
-gems: - jekyll-sitemap
