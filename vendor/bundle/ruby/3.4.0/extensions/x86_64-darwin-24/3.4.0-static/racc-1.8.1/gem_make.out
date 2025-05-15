@@ -1,0 +1,19 @@
+current directory: /Users/angela/Desktop/anqizhanglinguistics.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/angela/.rubies/ruby-3.4.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/angela/Desktop/anqizhanglinguistics.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250515-87966-juuqyt sitelibdir\=./.gem.20250515-87966-juuqyt clean
+
+current directory: /Users/angela/Desktop/anqizhanglinguistics.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250515-87966-juuqyt sitelibdir\=./.gem.20250515-87966-juuqyt
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/usr/local/opt/gdbm/lib' not found
+
+current directory: /Users/angela/Desktop/anqizhanglinguistics.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250515-87966-juuqyt sitelibdir\=./.gem.20250515-87966-juuqyt install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250515-87966-juuqyt/racc
+
+current directory: /Users/angela/Desktop/anqizhanglinguistics.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250515-87966-juuqyt sitelibdir\=./.gem.20250515-87966-juuqyt clean
