@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anqi Zhang/ Linguist"
+title                    : "Anqi Zhang/Linguist"
 title_separator          : "-"
 name                     : &name "Anqi Zhang"
-description              : &description "Assistant Professor, School of Liberal Arts, Nanjing University"
+description              : &description "Anqi Zhang mainly works on event and degree semantics from a cross-linguistic perspective. She is currently an Assistant Professor at the School of Liberal Arts, Nanjing University."
 url                      : https://anqizhanglinguistics.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
